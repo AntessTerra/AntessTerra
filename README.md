@@ -1,6 +1,6 @@
-## Didn't see you there, hey ✌️
+# Didn't see you there, hey ✌️
 
-## My progress at 42 Prague so far 💥
+# My progress at 42 Prague so far 💥
 
 [![jbartosi's 42 stats](https://badge.mediaplus.ma/starryblue/jbartosi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
