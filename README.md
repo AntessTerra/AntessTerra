@@ -1,12 +1,15 @@
-### Hi there 👋
+## Didn't see you there, hey ✌️
+
+## My progress at 42 Prague so far 💥
 
 [![jbartosi's 42 stats](https://badge.mediaplus.ma/starryblue/jbartosi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
-### Finished projects
+### List of finished projects 😎
 
 ![libft](libft-bonus.png)
 ![printf](ft_printf-bonus.png)
 ![born2beroot](born2beroot-bonus.png)
+
 <!--
 **AntessTerra/AntessTerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
