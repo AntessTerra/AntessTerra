@@ -10,6 +10,7 @@
 ![born2beroot](born2beroot-bonus.png)
 ![printf](ft_printf-bonus.png)
 ![nextline](get_next_line-bonus.png)
+![fractol](fractol-bonus.png)
 
 <!--
 **AntessTerra/AntessTerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
