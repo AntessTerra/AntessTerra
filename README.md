@@ -10,7 +10,6 @@
 ![born2beroot](born2beroot-bonus.png)
 ![printf](ft_printf-bonus.png)
 ![nextline](get_next_line-bonus.png)
-![fractol](fractol-bonus.png)
 ![minitalk](minitalk-bonus.png)
 
 <!--
