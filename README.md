@@ -11,6 +11,7 @@
 ![printf](ft_printf-bonus.png)
 ![nextline](get_next_line-bonus.png)
 ![minitalk](minitalk-bonus.png)
+![minitalk](push_swap.png)
 
 <!--
 **AntessTerra/AntessTerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
