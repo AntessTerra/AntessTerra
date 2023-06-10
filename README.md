@@ -14,4 +14,5 @@
 <a href="https://github.com/AntessTerra/minitalk">![minitalk](minitalk-bonus.png)</a>
 <a href="https://github.com/AntessTerra/push_swap">![pushswap](push_swap.png)</a>
 <a href="https://github.com/AntessTerra/deadly_philosophy">![philosophers](philosophers-bonus.png)</a>
+<a href="https://github.com/AntessTerra/minishell">![philosophers](minishell-bonus2.png)</a>
 <a href="https://github.com/AntessTerra/net_practice">![net-practice](net_practice-bonus.png)</a>
