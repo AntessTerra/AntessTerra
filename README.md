@@ -7,6 +7,7 @@
 ### List of finished projects 😎
 
 <a href="https://github.com/AntessTerra/libft">![libft](libft-bonus.png)</a>
+![born2beroot](born2beroot-bonus.png)
 <a href="https://github.com/AntessTerra/ft_printf">![printf](ft_printf-bonus.png)</a>
 <a href="https://github.com/AntessTerra/get_next_line">![nextline](get_next_line-bonus.png)</a>
 <a href="https://github.com/AntessTerra/fract-ol">![fractol](fract-ole.png)</a>
