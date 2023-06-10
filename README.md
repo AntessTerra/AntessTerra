@@ -14,4 +14,4 @@
 ![minitalk](minitalk-bonus.png)
 ![pushswap](push_swap.png)
 ![philosophers](philosophers-bonus.png)
-
+![net-practice](net_practice-bonus.png)
