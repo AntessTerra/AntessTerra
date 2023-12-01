@@ -4,6 +4,10 @@
 
 [![jbartosi's 42 stats](https://badge.mediaplus.ma/starryblue/jbartosi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
+### Now working on ⌨
+
+![cpp](cppn.png)
+
 ### List of finished projects 😎
 
 <a href="https://github.com/AntessTerra/libft">![libft](libft-bonus.png)</a>
