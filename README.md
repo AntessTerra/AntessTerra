@@ -10,7 +10,7 @@
 
 ## Advent of Code 2023
 
-![AoC](ChTree.png)
+<img src='ChTree.jpg' width='250'>
 
 ### List of finished projects 😎
 
