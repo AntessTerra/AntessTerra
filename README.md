@@ -6,7 +6,7 @@
 
 ### Now working on ⌨
 
-![cpp](cppn.png)
+<a href="https://github.com/AntessTerra/cpp">![cpp](cppn.png)</a>
 
 ## Advent of Code 2023
 
