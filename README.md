@@ -8,10 +8,6 @@
 
 <a href="https://github.com/AntessTerra/cpp">![cpp](cppn.png)</a>
 
-## Advent of Code 2023
-
-<img src='ChTree.jpg' width='250'>
-
 ### List of finished projects 😎
 
 <a href="https://github.com/AntessTerra/libft">![libft](libft-bonus.png)</a>
