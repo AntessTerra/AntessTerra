@@ -6,7 +6,7 @@
 
 ### Now working on ⌨
 
-<a href="https://github.com/xhelp00/cub3d">![irc](ft_ircn.png)/a>
+<a href="https://github.com/xhelp00/ft_irc">![irc](ft_ircn.png)</a>
 
 ### List of finished projects 😎
 
