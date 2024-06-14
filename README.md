@@ -2,11 +2,11 @@
 
 ### My progress at 42 Prague so far 💥
 
-[![jbartosi's 42 stats](https://badge.mediaplus.ma/starryblue/jbartosi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![jbartosi's 42 stats](https://badge.mediaplus.ma/black/jbartosi?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ### Now working on ⌨
 
-<a href="https://github.com/AntessTerra/cpp">![cpp](cppn.png)</a>
+<a href="https://github.com/xhelp00/cub3d">![irc](ft_ircn.png)/a>
 
 ### List of finished projects 😎
 
@@ -21,3 +21,5 @@
 <a href="https://github.com/AntessTerra/minishell">![philosophers](minishelle.png)</a>
 <a href="https://github.com/AntessTerra/net_practice">![net-practice](net_practice-bonus.png)</a>
 <a href="https://github.com/xhelp00/cub3d">![cub-3d](cub3dm.png)</a>
+<a href="https://github.com/AntessTerra/cpp">![cpp](cppm.png)</a>
+![inception](inceptione.png)
