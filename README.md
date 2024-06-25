@@ -6,7 +6,7 @@
 
 ### Now working on ⌨
 
-<a href="https://github.com/xhelp00/ft_irc">![irc](ft_ircn.png)</a>
+![transendence](ft_transcendencen.png)
 
 ### List of finished projects 😎
 
@@ -23,3 +23,4 @@
 <a href="https://github.com/xhelp00/cub3d">![cub-3d](cub3dm.png)</a>
 <a href="https://github.com/AntessTerra/cpp">![cpp](cppm.png)</a>
 ![inception](inceptione.png)
+<a href="https://github.com/xhelp00/ft_irc">![irc](ft_irce.png)</a>
